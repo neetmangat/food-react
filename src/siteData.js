@@ -57,56 +57,56 @@ export const teamData = [
         name: 'Team Member 1',
         title: `Founder`,
         bio: `An entrepreneur, crypto-economic researcher, and quantitative trader.`,
-        image: 'images/bio_pics/quantadelic.jpg',
+        image: 'images/bio_pics/1.png',
         twitter: ''
     },
     {
         name: 'Team Member 2',
         title: `Founder / Lead Developer`,
-        bio: `Dogestradamus is an experienced Python & Solidity developer and was previously a systems architect.`,
-        image: 'images/bio_pics/dogestradamus.jpg',
+        bio: `An experienced Python & Solidity developer and was previously a systems architect.`,
+        image: 'images/bio_pics/2.png',
         twitter: ''
     },
     {
         name: 'Team Member 3',
         title: 'Community Manager',
         bio: `Active in crypto for the past 2 years & is experienced at bringing communities joy.`,
-        image: 'images/bio_pics/hardwood.jpg',
+        image: 'images/bio_pics/3.png',
         twitter: ''
     },
     {
         name: 'Team Member 4',
         title: `Front End Engineer`,
         bio: 'An experienced website developer & designer, with a clear focus on identities & visual aplomb.',
-        image: 'images/bio_pics/degen.jpg',
+        image: 'images/bio_pics/4.png',
         twitter: ''
     },
     {
         name: 'Team Member 5',
         title: 'Branding & Marketing',
         bio: `Has been in crypto since 2018 & focuses on providing transparent marketing & media solutions for crypto projects.`,
-        image: 'images/bio_pics/wendyo.jpg',
+        image: 'images/bio_pics/5.png',
         twitter: ''
     },
     {
         name: 'Team Member 6',
         title: 'Senior Financial Analyst',
         bio: `Has 10+ years of experience in the finance industry, specializing in equities modeling & on-chain data analysis.`,
-        image: 'images/bio_pics/bags.jpg',
+        image: 'images/bio_pics/6.png',
         twitter: ''
     },
     {
         name: 'Team Member 7',
         title: 'Global Business Development',
         bio: `Focused on international trade & business development & has been in the Chinese crypto space for 2 years.`,
-        image: 'images/bio_pics/kappala.jpg',
+        image: 'images/bio_pics/7.png',
         twitter: ''
     },
     {
         name: 'Team Member 8',
         title: 'Operations Management',
         bio: 'An experienced lawyer & an expert on governance systems & operational management.',
-        image: 'images/bio_pics/elmo.jpg',
+        image: 'images/bio_pics/8.png',
         twitter: ''
     },
 ]
