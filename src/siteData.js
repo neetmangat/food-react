@@ -22,8 +22,8 @@ export const aboutData = [
 ]
 
 export const headings = {
-    siteTitle: 'FOOD PYRAMID',
-    about: `Crypto Twitter's very own fully upfront, completely honest Pyramid & Hedge Fund™`,
+    siteTitle: 'FOOD',
+    about: `Crypto Twitter's very own decentralized Hedge Fund DAO™`,
     stats: 'The Foodture of Finance',
     nextRebase: 'Next fToken Rebase',
     team: `Meet the legendary team that's ending world hunger with $FOOD.`,
@@ -33,7 +33,7 @@ export const headings = {
     seconds: 'Seconds',
     buy: 'Buy',
     chart: 'Chart',
-    statsButton: 'Enter the Pyramid',
+    statsButton: 'Enter',
     aboutButton: 'About',
     teamButton: 'Team',
     blogButton: 'Learn',
@@ -54,60 +54,60 @@ export const siteLinks = {
 
 export const teamData = [
     {
-        name: 'Quantadelic',
-        title: `Founder / Benevolent Dictator`,
-        bio: `Quantadelic is an entrepreneur, crypto-economic researcher, and quantitative trader.`,
+        name: 'Team Member 1',
+        title: `Founder`,
+        bio: `An entrepreneur, crypto-economic researcher, and quantitative trader.`,
         image: 'images/bio_pics/quantadelic.jpg',
-        twitter: 'https://twitter.com/quantadelic'
+        twitter: ''
     },
     {
-        name: 'Dogestradamus',
+        name: 'Team Member 2',
         title: `Founder / Lead Developer`,
         bio: `Dogestradamus is an experienced Python & Solidity developer and was previously a systems architect.`,
         image: 'images/bio_pics/dogestradamus.jpg',
-        twitter: 'https://twitter.com/sabotagebeats'
+        twitter: ''
     },
     {
-        name: 'Hardwood',
+        name: 'Team Member 3',
         title: 'Community Manager',
-        bio: `Hardwood has been active in crypto for the past 2 years & is experienced at bringing communities joy.`,
+        bio: `Active in crypto for the past 2 years & is experienced at bringing communities joy.`,
         image: 'images/bio_pics/hardwood.jpg',
-        twitter: 'https://twitter.com/Hardwood_'
+        twitter: ''
     },
     {
-        name: 'DEGEN',
+        name: 'Team Member 4',
         title: `Front End Engineer`,
-        bio: 'DEGEN is an experienced website developer & designer, with a clear focus on identities & visual aplomb.',
+        bio: 'An experienced website developer & designer, with a clear focus on identities & visual aplomb.',
         image: 'images/bio_pics/degen.jpg',
-        twitter: 'https://twitter.com/'
+        twitter: ''
     },
     {
-        name: 'Wendy O',
+        name: 'Team Member 5',
         title: 'Branding & Marketing',
-        bio: `Wendy has been in crypto since 2018 & focuses on providing transparent marketing & media solutions for crypto projects.`,
+        bio: `Has been in crypto since 2018 & focuses on providing transparent marketing & media solutions for crypto projects.`,
         image: 'images/bio_pics/wendyo.jpg',
-        twitter: 'https://twitter.com/CryptoWendyO'
+        twitter: ''
     },
     {
-        name: 'Bags',
+        name: 'Team Member 6',
         title: 'Senior Financial Analyst',
-        bio: `Bags has 10+ years of experience in the finance industry, specializing in equities modeling & on-chain data analysis.`,
+        bio: `Has 10+ years of experience in the finance industry, specializing in equities modeling & on-chain data analysis.`,
         image: 'images/bio_pics/bags.jpg',
-        twitter: 'https://twitter.com/DnDcapital'
+        twitter: ''
     },
     {
-        name: 'Kappala',
+        name: 'Team Member 7',
         title: 'Global Business Development',
-        bio: `Kappala is focused on international trade & business development & has been in the Chinese crypto space for 2 years.`,
+        bio: `Focused on international trade & business development & has been in the Chinese crypto space for 2 years.`,
         image: 'images/bio_pics/kappala.jpg',
-        twitter: 'https://twitter.com/kakappalala'
+        twitter: ''
     },
     {
-        name: 'Elmo',
+        name: 'Team Member 8',
         title: 'Operations Management',
-        bio: 'Elmo is an experienced lawyer & an expert on governance systems & operational management.',
+        bio: 'An experienced lawyer & an expert on governance systems & operational management.',
         image: 'images/bio_pics/elmo.jpg',
-        twitter: 'https://twitter.com/jrob1564'
+        twitter: ''
     },
 ]
 
