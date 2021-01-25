@@ -80,7 +80,7 @@ export default class FoodStats extends Component {
                 <div className="row justify-content-center">
                     <StatBox text={this.state.token.statbox[0].heading} stat={this.state.foodEthPrice + " ETH"} />
                     <StatBox text={this.state.token.statbox[1].heading} stat={'$' + foodUsdcPrice} />
-                    <StatBox text={this.state.token.statbox[2].heading} stat={this.state.foodAPY + ' %'} />
+                    <StatBox text={this.state.token.statbox[2].heading} stat={'0 %'} />
                     <StatBox text={this.state.token.statbox[3].heading} stat={foodRewards + ' ETH'} />
                     <StatBox text={this.state.token.statbox[7].heading} stat={this.state.token.statbox[7].stat} />
                     <StatBox text={this.state.token.statbox[6].heading} stat={this.state.token.statbox[6].stat} />

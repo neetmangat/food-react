@@ -1,7 +1,7 @@
 export const aboutData = [
     {
         heading: "Price Pumps are Programmed.",
-        details: "Advanced next generation 4D cloud enabled AI ponzinomic technologies. Price to Free Cashflow, pfft, how bout Price to Free Pumpflow?",
+        details: "Advanced next generation 4D cloud enabled AI pumpamental technologies. Price to Free Cashflow, pfft, how bout Price to Free Pumpflow?",
         image: "images/bullet-1.png"
     },
     {
@@ -22,8 +22,8 @@ export const aboutData = [
 ]
 
 export const headings = {
-    siteTitle: 'FOOD',
-    about: `Crypto Twitter's very own decentralized Hedge Fund DAO™`,
+    siteTitle: 'PYRAMID',
+    about: `A Decentralized Hedge Fund DAO™`,
     stats: 'The Foodture of Finance',
     nextRebase: 'Next fToken Rebase',
     team: `Meet the legendary team that's ending world hunger with $FOOD.`,
@@ -48,8 +48,10 @@ export const nav = {
 }
 
 export const siteLinks = {
-    youtubeHeader: 'https://www.youtube.com/embed/PfhIERTpTh4',
-    blog: 'https://foodpyramid.medium.com/',
+    youtubeHeader: 'https://www.youtube.com/embed/PoSiu2OC5iQ',
+    oldYoutubeHeader: 'https://www.youtube.com/embed/PfhIERTpTh4',
+    blog: 'https://www.medium.com/',
+    oldBlog: 'https://foodpyramid.medium.com/',
 }
 
 export const teamData = [
