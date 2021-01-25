@@ -1,6 +1,6 @@
 This projected is a now-defunct cryptocurrency startup aimed at creating a decentralized Hedge Fund DAO.
 
-The fully-functioning site can be found at: https://food-nm.netlify.app
+The fully-functioning site can be found at: https://pyramid-nm.netlify.app
 
 Features:
 
